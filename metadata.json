@@ -1,0 +1,6 @@
+{
+  "name": "Epub Skaityklė",
+  "description": "Paprasta ir patogi EPUB knygų skaityklė su naktiniu režimu, šrifto dydžio reguliavimu ir biblioteka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
